@@ -6,12 +6,24 @@ build-backend = "hatchling.build"
 name = "mcp-lint"
 version = "0.1.0"
 description = "A production-quality linter for MCP (Model Context Protocol) servers"
+readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
 authors = [
     { name = "Luxshan Thavarasa", email = "luxshanlux2000@gmail.com" },
 ]
-keywords = ["mcp", "lint", "model-context-protocol", "cli"]
+keywords = [
+    "mcp",
+    "model-context-protocol",
+    "lint",
+    "linter",
+    "static-analysis",
+    "cli",
+    "ai-tools",
+    "llm",
+    "protocol-validation",
+    "security",
+]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
