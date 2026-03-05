@@ -8,6 +8,9 @@ version = "0.1.0"
 description = "A production-quality linter for MCP (Model Context Protocol) servers"
 requires-python = ">=3.10"
 license = "MIT"
+authors = [
+    { name = "Luxshan Thavarasa", email = "luxshanlux2000@gmail.com" },
+]
 keywords = ["mcp", "lint", "model-context-protocol", "cli"]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -29,9 +32,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/luxshan/mcp-lint"
-Repository = "https://github.com/luxshan/mcp-lint"
-Issues = "https://github.com/luxshan/mcp-lint/issues"
+Homepage = "https://github.com/Luxshan2000/mcp-lint"
+Repository = "https://github.com/Luxshan2000/mcp-lint"
+Issues = "https://github.com/Luxshan2000/mcp-lint/issues"
 
 [project.optional-dependencies]
 dev = [
